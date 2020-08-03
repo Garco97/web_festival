@@ -1,1 +1,2 @@
-# web_festival
+# Web Festival
+Plantilla para festival de cortometrajes
